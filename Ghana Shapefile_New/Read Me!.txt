@@ -1,0 +1,20 @@
+DISCLAIMER
+===========
+
+Hello,
+
+Thank you for downloading this shapefile. Before you use this data, kindly load it in your ArcCatalogue or any GIS software you are using and read the metadata to ensure if the data is fit for the puroses you want to use it for.
+
+This data is created for the purposes of accomplishing a project that needed to consider the newly approved Ghana Regions. 
+It is to assist mapping of the locations of Queen mothers in Ghana.
+As the time this data was created, there has not been any authorized shapefile of the new Ghana regions from Lands Commission or Ghana Statistical Service.
+
+The creators of this shapefile would not be responsible for any act of negligence on the part of users.
+
+FAILURE TO FOLLOW THIS GUIDELINE IS AT THE USER'S OWN RISK.
+
+Thank You!
+==========
+
+Where Geospatial Media
+(www.wheregeospatial.com) 
